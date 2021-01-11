@@ -1,3 +1,3 @@
 # introduction
 
-i am new to git and github.
+i am new to git and github!
